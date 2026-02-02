@@ -38,7 +38,7 @@ I use this space to **prototype, learn, and improve** my frontend craft.
 | Tic Tac Toe | Just a simple tic tac toe game, where two friends can interact with it and play from a single device | HTML, CSS, JS |
 | To do list | Daily to do list maker to keep one on track | HTML, CSS, JS |
 | Gomoku | A two-player Gomoku game featuring live gameplay and score tracking on a 10x10 grid | HTML, CSS, JS |
-| `<YOUR_PROJECT_NAME>` | `<PROJECT_DESCRIPTION>` | Vite, React, TypeScript, Tailwind CSS, shadcn-ui |
+| MuscleUp | A personalized fitness companion app offering guided workout routines with exercises, timers, and progress tracking | Vite, React, TypeScript, Tailwind CSS, shadcn-ui |
 
 *(Each project will have its own folder with a `README.md` and preview screenshots.)*
 
