@@ -40,7 +40,7 @@ I use this space to **prototype, learn, and improve** my frontend craft.
 | Gomoku | A two-player Gomoku game featuring live gameplay and score tracking on a 10x10 grid | HTML, CSS, JS |
 | MuscleUp | A personalized fitness companion app offering guided workout routines with exercises, timers, and progress tracking | Vite, React, TypeScript, Tailwind CSS, shadcn-ui |
 
-*(Each project will have its own folder with a `README.md` and preview screenshots.)*
+
 
 **Project URL**: `<YOUR_PROJECT_URL>`
 
