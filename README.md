@@ -72,13 +72,11 @@ npm run dev
 
 ## 📬 Connect With Me
 
-Let’s collaborate or talk about web projects!  
+Let's collaborate or talk about web projects!  
 
- 
 💼 [LinkedIn](https://www.linkedin.com/in/hesney-hasin-maliha/)  
 📧 [Email](mailto:hesneyhasinmaliha@gmail.com)
 
 ---
 
-### ⭐ If you find something interesting here, don’t forget to star the repo!
-
+### ⭐ If you find something interesting here, don't forget to star the repo!
