@@ -42,7 +42,7 @@ I use this space to **prototype, learn, and improve** my frontend craft.
 
 
 
-**Project URL**:[ `Fitness Tracker App`](https://muscle-up-six.vercel.app/)
+**Project URL**:[ `Fitness Tracker App`](https://my-fittracker.vercel.app/)
 
 ---
 
