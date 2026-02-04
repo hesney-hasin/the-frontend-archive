@@ -76,8 +76,8 @@ npm run dev
 
 Let's collaborate or talk about web projects!
 
-💼 [LinkedIn](https://www.linkedin.com/in/hesney-hasin-maliha/)  
-📧 [Email](mailto:hesneyhasinmaliha@gmail.com)
+💼 [LinkedIn]([https://www.linkedin.com/in/hesney-hasin-maliha/](https://www.linkedin.com/in/hesney-hasin-maliha/))  
+📧 [Email](hesneyhasinmaliha@gmail.com)
 
 ---
 
