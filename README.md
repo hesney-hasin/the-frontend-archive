@@ -41,7 +41,7 @@ I use this space to **prototype, learn, and improve** my frontend craft.
 | MuscleUp | A personalized fitness companion app offering guided workout routines with exercises, timers, and progress tracking | Vite, React, TypeScript, Tailwind CSS, shadcn-ui |
 
 
-
+**Project URL**:[Gomuku Gaming App`](https://gomuku-rho.vercel.app/)
 **Project URL**:[ `Fitness Tracker App`](https://my-fittracker.vercel.app/)
 
 ---
@@ -69,13 +69,5 @@ npm install
 # 4. Start the development server
 npm run dev
 ```
-
----
-
-## Contact
-
-You can reach me via email at [hesneyhasinmaliha@gmail.com](mailto:hesneyhasinmaliha@gmail.com) and on LinkedIn at [https://www.linkedin.com/in/hesney-hasin-maliha/](https://www.linkedin.com/in/hesney-hasin-maliha/)
-
----
 
 ⭐ If you find something interesting here, don't forget to star the repo!
