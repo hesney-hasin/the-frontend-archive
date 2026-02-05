@@ -41,7 +41,7 @@ I use this space to **prototype, learn, and improve** my frontend craft.
 | MuscleUp | A personalized fitness companion app offering guided workout routines with exercises, timers, and progress tracking | Vite, React, TypeScript, Tailwind CSS, shadcn-ui |
 
 
-**Project URL**:[Gomuku Gaming App`](https://gomuku-rho.vercel.app/)
+**Project URL**:[`Gomuku Gaming App`](https://gomuku-rho.vercel.app/)
 **Project URL**:[ `Fitness Tracker App`](https://my-fittracker.vercel.app/)
 
 ---
