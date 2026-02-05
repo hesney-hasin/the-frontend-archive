@@ -69,5 +69,15 @@ npm install
 # 4. Start the development server
 npm run dev
 ```
+---
 
+## 📬 Get in Touch
+
+- [linkedin](https://www.linkedin.com/in/hesney-hasin-maliha/)
+- [`Email`](hesneyhasinmaliha@gmail.com)
+
+---
 ⭐ If you find something interesting here, don't forget to star the repo!
+
+
+
